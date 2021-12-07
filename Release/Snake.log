@@ -1,0 +1,9 @@
+﻿  GameMaster.cpp
+F:\Dev\MotuaSnake\Snake\Snake\GameMaster.cpp(489,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SnakeBot.cpp
+  Создание кода
+  3 of 648 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Snake.vcxproj -> F:\Dev\MotuaSnake\Snake\Release\Snake.exe
